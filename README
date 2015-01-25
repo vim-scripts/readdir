@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5093
+
+A minimal directory browser in just ~70 lines of VimL. To use it, just open a directory and use Enter to change into directories or open files.
+
+Screenshot available at
+https://github.com/ap/vim-readdir
